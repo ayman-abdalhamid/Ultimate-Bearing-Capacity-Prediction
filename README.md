@@ -9,3 +9,5 @@ Developed machine learning models to predict the ultimate bearing capacity of sh
 • Compared data-driven approaches with traditional analytical bearing-capacity methods.
 
 Due to the lake of sufficient data, this model and the resulted equation shouldn't be used in real life design.
+
+
