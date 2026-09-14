@@ -48,6 +48,8 @@ The trained models are saved in `UBC_models.pkl`.
 
 `UBC-GUI.py` provides a graphical interface for entering the foundation and soil parameters and obtaining bearing-capacity predictions.
 
+<img src="images/GUI.png" width="700">
+
 ## Repository Structure
 
 ```text
